@@ -1,5 +1,4 @@
 <h1>Hi there 🍜, I'm Ngoc</h1>
-<p> 🔭 I’m currently working with ReactJS </p>
 <p>📫 Have you met me? ptnngoc22@gmail.com</p>
 
 <h3 align="left">Languages and Tools:</h3>
